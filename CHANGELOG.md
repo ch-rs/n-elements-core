@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.6](https://github.com/n-elements/core/compare/v1.6.5...v1.6.6) (2021-12-20)
+
+
+### Bug Fixes
+
+* restore calendar pickers ([a5c3241](https://github.com/n-elements/core/commit/a5c32416b68d52b1f3ba88a745dcb352292ad432))
+
 ### [1.6.5](https://github.com/n-elements/core/compare/v1.5.4...v1.6.5) (2021-06-05)
 
 
